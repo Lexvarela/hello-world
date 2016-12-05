@@ -1,2 +1,4 @@
 # hello-world
-my hello world project
+my hello world practice
+
+Hi people, welcome to my repository.
